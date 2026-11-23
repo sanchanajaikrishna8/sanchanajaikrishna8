@@ -1,4 +1,4 @@
-<h1 align="center">Hie!, This is  Sanchana J</h1>
+<h1 align="center">Hie! This is  Sanchana J</h1>
 <h3 align="center">A tech enthusiast from India, currently pursuing Bachelor's degree in Computer Science and Engineering. I love open source projects and machine learning.</h3>
 
 
