@@ -12,7 +12,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
-![My Skills](https://skillicons.dev/icons?i=bash,arduino,python,c,git,docker,vscodium,github,spotify,linkedin,discord,gmail,java,autocad,cpp)
+![My Skills](https://skillicons.dev/icons?i=bash,arduino,python,c,git,docker,vscodium,github,java,autocad,cpp,vivado,jupyter,dev)
 
 </p>
 
